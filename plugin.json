@@ -1,0 +1,12 @@
+{
+    "ID": "2f4e384e-76ce-45c3-2662-b16f5e5c328f",
+    "ActionKeyword": "obi",
+    "Name": "Obsidian Plugin Issue Search",
+    "Description": "Search Issues from Obsidian Community plugins",
+    "Author": "Johannes Theiner",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "github.com/joethei/Flow-ObsidianPluginIssueSearch",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "main.py"
+}
