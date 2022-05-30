@@ -90,7 +90,7 @@ class ObsidianPlugins(Flox):
 
         for plugin in var:
             self.add_item(title=plugin['title'],
-                          subtitle=plugin['description'][:80],
+                          subtitle=plugin['description'].split('\n')[0],
                           method=self.paste,
                           parameters=[plugin['title'], plugin['url']],
                           context=[plugin])
